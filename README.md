@@ -1,18 +1,5 @@
 # React Interview Questions & Answers
 
-
----
-
-<div>
-<p align="center">
-  <a href=https://react.gg/?s=rjsiq>
-    <img src="./images/collab/uidev-banner4x.png" alt="React interview" width="100%">
-  </a>
-</p>
-</div>
-
----
-
 <div>
 <p align="center">
   <a href=https://zerotomastery.io/?utm_source=github&utm_medium=sponsor&utm_campaign=reactjs-interview-questions>
